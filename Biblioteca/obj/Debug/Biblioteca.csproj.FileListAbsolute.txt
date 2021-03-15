@@ -1,0 +1,7 @@
+D:\C#\Livraria\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\C#\Livraria\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\C#\Livraria\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\C#\Livraria\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\C#\Livraria\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\C#\Livraria\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\C#\Livraria\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
